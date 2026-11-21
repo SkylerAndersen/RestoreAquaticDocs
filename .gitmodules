@@ -1,0 +1,3 @@
+[submodule "readmd/fltk"]
+	path = readmd/fltk
+	url = https://github.com/fltk/fltk.git
